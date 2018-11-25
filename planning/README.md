@@ -4,7 +4,7 @@
 
 Calvin
 
-TDD 
-Algorithms
-Javascript fundamentals
-React
+* TDD 
+* Algorithms
+* Javascript fundamentals
+* React
